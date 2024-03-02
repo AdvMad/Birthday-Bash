@@ -1,0 +1,43 @@
+body {
+  background-color: #eed3d9;
+  background-image: url("https://i.gifer.com/origin/df/df1d53bb4c6cc7d28a80559ee13fb6b2_w200.webp");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+li {
+  color: #feece2;
+  font-size: 50px;
+}
+p {
+  color: #feece2;
+  font-size: 50px;
+}
+a {
+  color: #feece2;
+  font-size: 50px;
+}
+h1 {
+  color: #feece2;
+  font-size: 75px;
+}
+.hi {
+  display: flex;
+}
+.bye {
+  flex: 33.33%;
+  padding: 0px;
+}
+#rob {
+  width: 575px;
+  height: 500px;
+  padding: 0;
+}
+.bob {
+  height: 500px;
+  width: 330px;
+}
+#teen {
+  width: 575px;
+  height: 500px;
+}
